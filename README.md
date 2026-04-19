@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Dorjee 👾</h1>
+<h1 align="center">Hi, I'm Dorjee Khampa Herrezuelo Blasco 👾</h1>
 
 <p align="center">
   <b>Game Developer</b> · Crafting worlds one line of code at a time
@@ -15,8 +15,8 @@
 ```
 > load player.json
 {
-  "name":     "Dorjee",
-  "alias":    "DorjeeHerBlas",
+  "name":     "Dorjee Khampa Herrezuelo Blasco",
+  "alias":    "Dorjee",
   "class":    "Game Developer",
   "status":   "Building cool stuff",
   "xp_gain":  "Unreal Engine (C++)"
@@ -37,6 +37,34 @@
 
 ---
 
+## 🕹️ Featured Projects
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/DorjeeHerBlas/TFG-25-26-AWS">🔒 TFG-25-26-AWS</a></h3>
+      <p>AWS security framework for Unity games — cloud infrastructure to protect multiplayer game backends.</p>
+      <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+      <img alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white"/>
+      <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+    </td>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/DorjeeHerBlas/PuzzleBobble">🫧 PuzzleBobble</a></h3>
+      <p>Classic Puzzle Bobble reimagined for Android. Match colors, clear bubbles, beat the levels.</p>
+      <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+      <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+    </td>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/DorjeeHerBlas/WhatToWatch">🎬 WhatToWatch</a></h3>
+      <p>watchOS app that recommends you a film or series every day. Never wonder what to watch again.</p>
+      <img alt="Swift" src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white"/>
+      <img alt="watchOS" src="https://img.shields.io/badge/watchOS-000000?style=flat-square&logo=apple&logoColor=white"/>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -50,20 +78,20 @@
 
 ---
 
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DorjeeHerBlas&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
+</p>
+
+---
+
 ## 🌱 Currently
 
 - 🎮 Developing games with **Unity**
 - 📱 Building apps with **Android Studio**
 - ⚔️ Learning **Unreal Engine (C++)** — the grind is real
 - 🧠 Always exploring new game mechanics & systems
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DorjeeHerBlas&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
-</p>
 
 ---
 
