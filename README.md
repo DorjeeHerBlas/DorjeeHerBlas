@@ -17,7 +17,7 @@
 {
   "name":     "Dorjee Khampa Herrezuelo Blasco",
   "alias":    "Dorjee",
-  "class":    "Game Developer",
+  "class":    "Software Developer",
   "status":   "Building cool stuff",
   "xp_gain":  "Unreal Engine (C++)"
 }
