@@ -10,7 +10,7 @@
 
 ---
 
-## 🎮 About Me
+##  About Me
 
 ```
 > load player.json
@@ -25,7 +25,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <p align="left">
   <img alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
@@ -37,7 +37,7 @@
 
 ---
 
-## 🕹️ Featured Projects
+## Featured Projects
 
 <table>
   <tr>
@@ -65,7 +65,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DorjeeHerBlas&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
@@ -78,7 +78,7 @@
 
 ---
 
-## 📈 Activity Graph
+##  Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DorjeeHerBlas&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
@@ -86,12 +86,12 @@
 
 ---
 
-## 🌱 Currently
+##  Currently
 
-- 🎮 Developing games with **Unity**
-- 📱 Building apps with **Android Studio**
-- ⚔️ Learning **Unreal Engine (C++)** — the grind is real
-- 🧠 Always exploring new game mechanics & systems
+-  Developing games with **Unity**
+-  Building apps with **Android Studio**
+-  Learning **Unreal Engine (C++)** — the grind is real
+-  Always exploring new game mechanics & systems
 
 ---
 
