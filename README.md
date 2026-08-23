@@ -10,20 +10,6 @@
 
 ---
 
-##  About Me
-
-```
-> load player.json
-{
-  "name":     "Dorjee Khampa Herrezuelo Blasco",
-  "alias":    "Dorjee",
-  "class":    "Software Developer",
-  "status":   "Building cool stuff",
-  "xp_gain":  "Unreal Engine (C++)"
-}
-```
-
----
 
 ##  Tech Stack
 
